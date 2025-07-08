@@ -1,0 +1,159 @@
+.top-container {
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 100px;
+}
+div{
+    display: block;
+    unicode-bidi: isolate;
+}
+body {
+    color: #40514e;
+    margin: 0;
+    text-align: center;
+    font-family: "Merriweather", serif;
+}
+.top-cloud {
+    position: absolute;
+    right:300px;
+    top: 40px;
+}
+h1 {
+    color: #66bfbf;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: "Sacramento", cursive;
+}
+h1 {
+    display: block;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    unicode-bidi: isolate;
+}
+h2 {
+    color: #66bfbf;
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+h2 {
+    display: block;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+}
+.pro {
+    text-decoration: underline;
+}
+.bottom-cloud {
+    position: absolute;
+    left: 200px;
+    bottom: 310px;
+}
+.pink{
+    position:relative;
+    bottom: 0px;
+}
+
+.middle-container {
+    margin: 1px 0;
+}
+.profile {
+    padding: 40px 0;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1200px;
+}
+.photo {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+h2{
+    margin: 2px auto 0 auto;
+}
+.intro {
+    width: 30%;
+    margin: auto;
+}
+p {
+    line-height: 2;
+}
+hr {
+    border: dotted #eaf6f6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+h3 {
+    color: #11999e;
+    font-family: "Montserrat", sans-serif;
+}
+h3 {
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    unicode-bidi: isolate;
+}
+.parent {
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    grid-template-rows: repeat(1, 1fr);
+    width: 50%;
+    margin: 100px auto 0 auto;
+    text-align: left;
+    row-gap: 2rem;
+}
+.typing{
+    width: 50%;
+    margin-left: 10px;
+}
+.design{
+    width: 50%;
+    margin-left: 30px;
+}
+.chilli-img {
+    width: 50%;
+    margin-left: 40px;
+}
+
+.btn {
+    background: #11cdd4;
+    border-radius: 8px;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}    
+.bottom-container {
+    background-color: #66bfbf;
+    padding: 50px 0 20px;
+    margin-top: 100px;
+}
+
+a {
+    color: #11999e;
+    font-family: "Montserrat", sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+.copyright {
+    color: #eaf6f6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+li {
+    list-style-type: none;
+}
+    
